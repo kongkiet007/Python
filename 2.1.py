@@ -1,0 +1,5 @@
+Number1 = input ('Enter First Number \n')
+Number2 = input ('Enter Second Number \n')
+print(Number1,'=',Number2,Number1==Number2)
+print(Number1,'<',Number2,Number1<Number2)
+print(Number1,'>',Number2,Number1>Number2)
